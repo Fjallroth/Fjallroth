@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christer Fjallroth (He/Him) </h1>
 
-<h3 align="center">A passionate full stack developer based in Austria</h3>
-
-- 🔭 I’m currently working on [matesRace](https://github.com/Fjallroth/matesRace)
-
-- 🌱 I’m currently learning **React, Python**
-
-- 💬 Ask me about **Javascript, Node.js, CSS, HTML, MongoDB, React, Tailwind**
-
-- 📫 How to reach me **christer.fjallroth@gmail.com**
-
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/christer-fjallroth/)
-
-- ⚡ Fun fact **I have an unhealthy obsession with mountain biking**
+<h3 align="center">An engineer and hobby developer based in Austria</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
